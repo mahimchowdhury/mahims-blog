@@ -1,0 +1,20 @@
+.content{
+  margin: 5px auto;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+nav a{
+  text-decoration: none;
+  color: #171717;
+}
+.links{
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+.links a:hover{
+  color: #1E72F0;
+}

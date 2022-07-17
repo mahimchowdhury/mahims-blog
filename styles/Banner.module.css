@@ -1,0 +1,12 @@
+.banner{
+    background-image: linear-gradient(
+        to right bottom,
+        rgba(30,114,240, 0.3),
+        rgba(30,114,240, 0.5)),
+        url(../public/bg.jpg);
+    background-attachment: fixed;
+    background-position:center top;
+    background-repeat: none;
+    background-size: cover;
+    height: 90vh;
+}
